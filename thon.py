@@ -17,4 +17,4 @@ while mais != 0:
     print('PAUSA')
     sleep(1)
     mais = int(input('Quantos termos você quer mostrar mais? '))
-print('Voce utilizou \033[0;32m{} termos\033[m'.format(cont));
+print('Voce utilizou \033[0;32m{} termos\033[m'.format(cont))
